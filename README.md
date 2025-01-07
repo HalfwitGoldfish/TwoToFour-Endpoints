@@ -22,6 +22,6 @@
     I. The first statement should tell me if the first number is greater than, less than or equal to the second number.
     II. The second statement should tell me if the second number is greater than, less than, or equal to the first number.
 
-*Reviewer's Name*:
+*Reviewer's Name*: Bronel Lazar
 
-*Peer Review*:
+*Peer Review*: Everything works well, for the time on asking two questions, this is the same thing I told Mike but the user cant put AM or PM but it isnt that big of a deal. Other than that everything is good, and is linked up properly. Good Job!
